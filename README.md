@@ -30,6 +30,9 @@ node app.js
 ```bash
 http://localhost:3000
 ```
+## 🖼️ Screenshot
+
+![Live Tracking App Screenshot](https://res.cloudinary.com/dsxvmhffb/image/upload/v1760966416/Screenshot_2025-10-20_at_6.22.54_PM_f5hgri.png)
 
 ## ✨ Features
 
